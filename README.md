@@ -1,1 +1,1 @@
-A collaboration project on OOP - COMP 223
+A collaboration project on OOP with C# - COMP 223
