@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\bin\Debug\bank account management system.cs.exe.config
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\bin\Debug\bank account management system.cs.exe
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\bin\Debug\bank account management system.cs.pdb
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\obj\Debug\bank account management system.cs.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\obj\Debug\bank account management system.cs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\obj\Debug\bank account management system.cs.exe
+C:\Users\Administrator\source\repos\bank account management system.cs\bank account management system.cs\obj\Debug\bank account management system.cs.pdb
