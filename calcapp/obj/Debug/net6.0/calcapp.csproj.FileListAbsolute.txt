@@ -1,0 +1,28 @@
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\bin\Debug\net6.0\calcapp.exe
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\bin\Debug\net6.0\calcapp.deps.json
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\bin\Debug\net6.0\calcapp.runtimeconfig.json
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\bin\Debug\net6.0\calcapp.dll
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\bin\Debug\net6.0\calcapp.pdb
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.AssemblyInfoInputs.cache
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.AssemblyInfo.cs
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.csproj.CoreCompileInputs.cache
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.dll
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\refint\calcapp.dll
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.pdb
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\calcapp.genruntimeconfig.cache
+C:\Users\gymbro\Documents\code\visual studio tings\calcapp\obj\Debug\net6.0\ref\calcapp.dll
+C:\Users\GYMRAT\Documents\codes\calcapp\bin\Debug\net6.0\calcapp.exe
+C:\Users\GYMRAT\Documents\codes\calcapp\bin\Debug\net6.0\calcapp.deps.json
+C:\Users\GYMRAT\Documents\codes\calcapp\bin\Debug\net6.0\calcapp.runtimeconfig.json
+C:\Users\GYMRAT\Documents\codes\calcapp\bin\Debug\net6.0\calcapp.dll
+C:\Users\GYMRAT\Documents\codes\calcapp\bin\Debug\net6.0\calcapp.pdb
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.AssemblyInfoInputs.cache
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.AssemblyInfo.cs
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.csproj.CoreCompileInputs.cache
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.dll
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\refint\calcapp.dll
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.pdb
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\calcapp.genruntimeconfig.cache
+C:\Users\GYMRAT\Documents\codes\calcapp\obj\Debug\net6.0\ref\calcapp.dll
