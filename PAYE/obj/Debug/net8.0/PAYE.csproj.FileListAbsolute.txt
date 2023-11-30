@@ -1,0 +1,14 @@
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\bin\Debug\net8.0\PAYE.exe
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\bin\Debug\net8.0\PAYE.deps.json
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\bin\Debug\net8.0\PAYE.runtimeconfig.json
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\bin\Debug\net8.0\PAYE.dll
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\bin\Debug\net8.0\PAYE.pdb
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.AssemblyInfoInputs.cache
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.AssemblyInfo.cs
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.csproj.CoreCompileInputs.cache
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.dll
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\refint\PAYE.dll
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.pdb
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\PAYE.genruntimeconfig.cache
+C:\Users\Boke\Desktop\codestuff\C#\PAYE\obj\Debug\net8.0\ref\PAYE.dll
