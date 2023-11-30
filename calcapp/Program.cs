@@ -1,4 +1,6 @@
-﻿namespace calcapp
+﻿using System;
+
+namespace calcapp
 {
     public class Program
     {
