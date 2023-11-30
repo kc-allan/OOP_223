@@ -133,10 +133,6 @@ namespace UserAccounts
         }
         public static void UpdateHistory(UserAccount user)
         {
-            /*DateTime current_time = DateTime.Now;
-            users[user.History] = {
-                current_time.ToString(), history
-            };*/
             users[user.UserName] = user;
             Console.WriteLine($"{user.History}");
             string data = JsonSerializer.Serialize(users);
