@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\PAYE_Calculator\\PAYE_Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\OOP_223\\PAYE_Calculator\\PAYE_Calculator.csproj",
       "projectName": "PAYE_Calculator",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\PAYE_Calculator\\PAYE_Calculator.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\OOP_223\\PAYE_Calculator\\PAYE_Calculator.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\PAYE_Calculator\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\OOP_223\\PAYE_Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

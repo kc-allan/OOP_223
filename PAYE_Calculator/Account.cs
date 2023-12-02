@@ -134,7 +134,6 @@ namespace UserAccounts
         public static void UpdateHistory(UserAccount user)
         {
             users[user.UserName] = user;
-            Console.WriteLine($"{user.History}");
             string data = JsonSerializer.Serialize(users);
             File.WriteAllText(filePath, data);
         }

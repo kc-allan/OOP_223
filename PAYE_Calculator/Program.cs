@@ -94,7 +94,10 @@ namespace PayeCalculator
                 {
                     foreach (KeyValuePair<int, string> item in menu)
                     {
-                        Console.WriteLine($"{item.Key}. {item.Value}");
+                        if (item.Key != 1 && item.Key != 2)
+                        {
+                            Console.WriteLine($"{item.Key}. {item.Value}");
+                        }
                     }
                 }
                 Console.WriteLine("===================================");
@@ -110,11 +113,11 @@ namespace PayeCalculator
                         Console.Write($"({in_session.UserName})> ");
                     }
                     string option = Console.ReadLine();
-                    if (option == "1")
+                    if (option == "1" && !session)
                     {
                         UserAccount.RegisterUser();
                     }
-                    else if (option == "2")
+                    else if (option == "2" && !session)
                     {
                         Console.Write("Enter Username: ");
                         string username = Console.ReadLine();
@@ -148,9 +151,9 @@ namespace PayeCalculator
                             Console.WriteLine("--------------------------------------");
                             Console.WriteLine($"  Date: {date}");
                             Console.WriteLine("--------------------------------------");
-                            Console.WriteLine($"  Gross Income\t | {income}");
-                            Console.WriteLine($"  Deductions\t   | {deductions}");
-                            Console.WriteLine($"  Allowances\t   | {allowances}");
+                            Console.WriteLine($"  Gross Income\t|  {income}");
+                            Console.WriteLine($"  Allowances\t|  {allowances}");
+                            Console.WriteLine($"  Deductions\t|  {deductions}");
                             Console.WriteLine($"====== PAYE Tax Amount: {paye} ======");
                             Console.WriteLine("--------------------------------------");
                         }
